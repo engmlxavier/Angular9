@@ -1,0 +1,24 @@
+{
+    "itens": [
+        {
+            "id": 1,
+            "nome": "Curso de Engenharia da Computação",
+            "valor": 1500
+        },
+        {
+            "id": 2,
+            "nome": "Curso de Direito",
+            "valor": 1200
+        },
+        {
+            "id": 3,
+            "nome": "Curso de Administração",
+            "valor": 1200
+        },
+        {
+            "id": 4,
+            "nome": "Curso de Analise de Sistema",
+            "valor": "1250.00"
+        }
+    ]
+}
